@@ -1,3 +1,1 @@
-# b test
-
-bbbb
+This is b.txt
